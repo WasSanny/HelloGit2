@@ -1,0 +1,15 @@
+C:\Users\WS\Documents\TestGit2\Example003_Test3\bin\Debug\net6.0\Example003_Test3.exe
+C:\Users\WS\Documents\TestGit2\Example003_Test3\bin\Debug\net6.0\Example003_Test3.deps.json
+C:\Users\WS\Documents\TestGit2\Example003_Test3\bin\Debug\net6.0\Example003_Test3.runtimeconfig.json
+C:\Users\WS\Documents\TestGit2\Example003_Test3\bin\Debug\net6.0\Example003_Test3.dll
+C:\Users\WS\Documents\TestGit2\Example003_Test3\bin\Debug\net6.0\Example003_Test3.pdb
+C:\Users\WS\Documents\TestGit2\Example003_Test3\obj\Debug\net6.0\Example003_Test3.csproj.AssemblyReference.cache
+C:\Users\WS\Documents\TestGit2\Example003_Test3\obj\Debug\net6.0\Example003_Test3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WS\Documents\TestGit2\Example003_Test3\obj\Debug\net6.0\Example003_Test3.AssemblyInfoInputs.cache
+C:\Users\WS\Documents\TestGit2\Example003_Test3\obj\Debug\net6.0\Example003_Test3.AssemblyInfo.cs
+C:\Users\WS\Documents\TestGit2\Example003_Test3\obj\Debug\net6.0\Example003_Test3.csproj.CoreCompileInputs.cache
+C:\Users\WS\Documents\TestGit2\Example003_Test3\obj\Debug\net6.0\Example003_Test3.dll
+C:\Users\WS\Documents\TestGit2\Example003_Test3\obj\Debug\net6.0\refint\Example003_Test3.dll
+C:\Users\WS\Documents\TestGit2\Example003_Test3\obj\Debug\net6.0\Example003_Test3.pdb
+C:\Users\WS\Documents\TestGit2\Example003_Test3\obj\Debug\net6.0\Example003_Test3.genruntimeconfig.cache
+C:\Users\WS\Documents\TestGit2\Example003_Test3\obj\Debug\net6.0\ref\Example003_Test3.dll
